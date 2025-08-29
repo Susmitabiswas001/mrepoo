@@ -1,0 +1,15 @@
+[submodule "mirdona-mat"]
+	path = mirdona-mat
+	url = https://github.com/Susmitabiswas001/mirdona-mat
+[submodule "SPAC-VR-1-Z"]
+	path = SPAC-VR-1-Z
+	url = https://github.com/Susmitabiswas001/SPAC-VR-1-Z
+[submodule "SPAC"]
+	path = SPAC
+	url = https://github.com/Susmitabiswas001/SPAC
+[submodule "Space-Architecture"]
+	path = Space-Architecture
+	url = https://github.com/Susmitabiswas001/Space-Architecture
+[submodule "sp-arch-client"]
+	path = sp-arch-client
+	url = https://github.com/Susmitabiswas001/sp-arch-client
